@@ -1,4 +1,4 @@
-# Projet-3---Openclassroom
+# Projet 3 - Openclassroom
 ## Analysez les besoins de votre client pour son festival de films
 
 Jennifer Edwards est l'organisatrice du festival des Films de Plein Air. Elle ambitionne de sélectionner et de projeter des films d'auteur en plein air du 5 au 8 août au parc Monceau à Paris.
