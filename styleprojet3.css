@@ -1,0 +1,309 @@
+
+
+
+/* Palette de couleur */
+/* marron  bizarre : #482429 */
+/* nAVAJO WHITE : #FBD58D */
+/* Orange rouge : #F36714 */
+/* Orange  : #FBA12E */
+/* Beige  : #F3E8E1 */
+body, html
+{
+
+  padding: 0;
+  margin: 0;
+}
+body
+{
+  font-family: 'Raleway', sans-serif;
+}
+
+.container-fluid
+{
+  padding: 0;
+}
+/* header */
+.header
+{
+  background-color: #482429;
+
+}
+h1, h2
+{
+ font-family: 'Tangerine', cursive;
+}
+
+.menu a
+{
+  color:  #FBD58D;
+  margin-left: auto;
+  font-size: 18px;
+  text-transform: uppercase;
+
+
+}
+.menu a:hover
+{
+  color: white;
+}
+
+header i
+{
+  color: #FBD58D;
+  font-size: 25px;
+  margin-top: 60px;
+  position: absolute;
+  left: 1045px;
+  margin-left: 1px
+
+}
+header i:hover
+{
+  color: white;
+}
+.logo_festival
+{
+  margin-top: -30px;
+}
+
+/* banniere */
+.imgban2
+{
+  background: url('image/banniere_festival2.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+.banner
+{
+  width: 100%;
+  max-width: 100%
+}
+.ban
+{
+  width: 100%
+  max-width:100%;
+  position: relative;
+
+}
+.ban img
+{
+  width: 100%;
+  max-width:100%;
+}
+.inner-banner
+{
+
+  width: 100%;
+ /*  position: absolute none;
+  top: 50%;
+  left: 0; */
+  text-align: center;
+}
+.inner-banner h1
+{
+  font-size: 140px;
+  font-weight: bold;
+  color: rgb(255,255,255);
+  text-shadow: 5px 1px 1px #F36714;
+  margin-top: 130px ;
+
+}
+
+.inner-banner h2
+{
+  color: white;
+  font-size: 85px;
+  font-weight: bold;
+  text-shadow: 5px 1px 1px #F36714;
+
+}
+#logo_gratuit
+{
+  margin-top: 140px;
+}
+
+/* à propos */
+h3+p
+{
+  text-align: justify;
+}
+.trait_separation
+{
+  height: 3px;
+  width: 10%;
+  border: none;
+  box-shadow: none;
+  background-color: #F36714;
+}
+#logo_item2
+{
+  position: absolute;
+  top: 790px;
+  left: 10px;
+}
+#about
+{
+  font-size: 80px;
+  text-align: center;
+  margin: 1%;
+  padding-top: 10%;
+}
+#about:hover
+{
+  color: #482429;
+}
+.about article
+{
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+.about article h3
+{
+  text-align: center;
+}
+/* actualités  */
+#actualité
+{
+  font-size: 80px;
+  text-align: center;
+}
+#actualité:hover
+{
+  color: #482429;
+}
+#image-popcorn
+{
+  position: absolute;
+  top: 2400px;
+  left: -65px;
+}
+#image-cinema
+{
+  position: absolute;
+  top: 2050px;
+  right: 80px;
+}
+/* a l'affiche */
+.film_ala_fiche
+{
+  background-color: #FBA12E;
+}
+#alaffiche
+{
+  font-size: 80px;
+  text-align: center;
+  padding-top: 10%
+}
+#alaffiche:hover
+{
+  color: #482429;
+}
+.film_ala_fiche .item-film_ala_fiche
+{
+
+  margin-top: 2%;
+
+}
+
+/* Réservation */
+.btn
+{
+
+  background-color: #FBA12E;
+  border-color: #FBA12E;
+  margin-bottom: 11%;
+}
+.btn:hover
+{
+  background-color: #482429;
+  border-color: #482429;
+}
+.inscription
+{
+ ;
+}
+#inscription
+{
+  font-size: 80px;
+  color: black;
+  text-align: center;
+  padding-top: 5%
+}
+#inscription:hover
+{
+  color: #482429;
+}
+#logo_film
+{
+
+  position: absolute;
+  bottom: 250px;
+  left: 745px;
+}
+/* Pied de page */
+.footer
+{
+  background-color: #482429 ;
+
+}
+#contact
+{
+  font-size: 80px;
+  color: white;
+  text-align: center;
+}
+h5
+{
+  text-align: center;
+}
+.trait_separationfooter
+{
+  height: 3px;
+  width: 15%;
+  border: none;
+  box-shadow: none;
+  background-color: white;
+}
+footer
+{
+
+  color: #FBD58D;
+}
+.footer_ul_amrc li a
+{
+  color: #FBD58D ;
+}
+.footer_ul_amrc li a:hover
+{
+  color: #FBA12E;
+}
+
+
+ul i
+{
+  font-size: 40px;
+  color: #FBD58D;
+}
+ul i:hover
+{
+  color: white;
+}
+.fab
+{
+  text-align: center;
+}
+#lirelasuite
+{
+  display:none;
+}
+#lirelasuite2
+{
+  display: none;
+}
+#lirelasuite3
+{
+  display: none;
+}
+
+
+
+
